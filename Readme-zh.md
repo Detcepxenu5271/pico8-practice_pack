@@ -8,6 +8,3 @@ PICO-8 练习项目集合
 
 [Readme](gomoku/Readme-zh.md)
 
-## TODO
-* [ ] 编写 gomoku 的 Readme
-
